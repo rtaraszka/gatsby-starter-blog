@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Product Person`,
     author: `Radek Taraszka`,
-    description: `The journey of a courious head in a product world`,
+    description: `The journey of a courious head in a product world.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `radektaraszka`,
